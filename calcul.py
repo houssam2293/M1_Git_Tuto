@@ -1,8 +1,9 @@
 def add(x,y):
-	pass
+	return x+y
 
 def sub(x,y):
-	pass
+	x-y
+
 	
 def mlt(x,y):
 	pass
